@@ -53,7 +53,7 @@ To ensure that only one user can successfully book seats when multiple users att
    ```
 2. Navigate to the project directory:
    ```bash
-   cd IRCTC_Design
+   cd Ticket_Booking
    ```
 3. Install dependencies:
    ```bash
